@@ -2,8 +2,11 @@
  "cells": [
   {
    "cell_type": "markdown",
-   "metadata": {},
+   "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"},
    "source": [
+    "<a href=\"https://colab.research.google.com/github/nthammadi-uncc/knowledge-discovery-in-databases/blob/main/Preparing_Data_for_Modeling_Churn_Dataset_Naomi_T.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>",
     "<h2>Preparing Data for Modeling using Church dataset</h2>"
    ]
   },
